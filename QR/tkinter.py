@@ -34,4 +34,9 @@ text.place(x=1100,y=600)
 button=Button(root,text='Generate code',bg='SteelBlue3',fg='azure',activeforeground='red',font=('Arial',40))
 button.place(x=900,y=800)
 root.mainloop()
-def mainloop():
+
+def mainloop(self):
+    
+    self.img = ImageTk.PhotoImage(Image.open("ball.png"))     
+    self.canvas.create_image(20,20, anchor=NW, image=self.img)    
+    self.canvas.image = self.img
