@@ -34,4 +34,4 @@ text.place(x=1100,y=600)
 button=Button(root,text='Generate code',bg='SteelBlue3',fg='azure',activeforeground='red',font=('Arial',40))
 button.place(x=900,y=800)
 root.mainloop()
-
+def mainloop():
