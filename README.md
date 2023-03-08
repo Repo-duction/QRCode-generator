@@ -7,5 +7,5 @@
     - (Optional) [Set your username in Git.](https://help.github.com/articles/setting-your-username-in-git)
     - (Optional) [Set your commit email address in Git.](https://help.github.com/articles/setting-your-commit-email-address-in-git)
     2. ### Cloning the Repo in your local machine
-    - Run ``git clone git@github.com:OpenLake/Photo-Sharing-App.git``
-    - ``cd Photo-Sharing-App``
+    - Run ``git clone git@github.com:Repo-duction/QRCode-generator.git``
+    - ``cd QRCode-generator``
