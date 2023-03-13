@@ -1,0 +1,145 @@
+commit 5b0503277082753cf212406ba914d0e467d2a34f
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Thu Mar 9 07:45:42 2023 +0530
+
+    tkinter
+
+commit b16acec9f7c4d144862ea9de0a7fe25634edbdae
+Merge: 6a0abfb 347773e
+Author: ishita13saxena <124924469+ishita13saxena@users.noreply.github.com>
+Date:   Thu Mar 9 00:46:30 2023 +0530
+
+    Merge pull request #3 from Repo-duction/ishita-generate-qr
+    
+    Added generateQR functionality to the UI
+
+commit 347773e49b3350388f974dadafb429e40d942ff7
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Thu Mar 9 00:37:08 2023 +0530
+
+    Added generateQR functionality to the UI
+    
+    Signed-off-by: ishita13saxena <ishitas@iitbhilai.ac.in>
+
+commit 6a0abfb9c357a8557b2f45d62907badf5ddb85b3
+Merge: a69fcd2 ecd94e7
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:06:27 2023 +0530
+
+    Merge pull request #1 from Repo-duction/qrtkinter
+    
+    Qrtkinter
+
+commit a69fcd2f11bd311d7fe9e3e793824f70c6b51322
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:41 2023 +0530
+
+    Create README.md
+
+commit 25ffc15f5cc08a04458d5dd0df6cc5989829569b
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:29 2023 +0530
+
+    Delete file1
+
+commit 8a4a9d50d1cc1e18368af8530e8fb687150244a7
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:14 2023 +0530
+
+    Delete filex
+
+commit 85206b8e72fe7d00066debaf8f98a886a2d39b0d
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:02 2023 +0530
+
+    Delete filea
+
+commit 0664b038d6dc9d290886d9879fa33d435910b3a1
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:52 2023 +0530
+
+    Delete file2
+
+commit 35206b31890e33ed9f5f923e2d75dd964e945afa
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:44 2023 +0530
+
+    Delete file1
+
+commit ecd94e774963bd82fbfcb9dad12e30fad1f3f2c4
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:24 2023 +0530
+
+    Delete filex
+
+commit 0d8078f80c4ecfb0fecaece98093b12650bd746b
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:12 2023 +0530
+
+    Delete filea
+
+commit c1c1c1ebb0b1f6c4fdc2ee90bd15e9206afba671
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:00 2023 +0530
+
+    Delete file2
+
+commit 40681a5b11645b90ce3b2174fc3331ac937ab9f7
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:03:52 2023 +0530
+
+    Delete file1
+
+commit fde7dea95de5776d30af53df04195922d0125528
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:03:43 2023 +0530
+
+    Delete file1
+
+commit 8897aa0507fdebe447c479a62d511b912ba67609
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Wed Mar 8 08:51:41 2023 +0530
+
+    tkinter
+
+commit f79e5f5ebb8d35c9b17012cd7f7bcf91f1c59798
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Sat Feb 25 20:29:48 2023 +0530
+
+    commit 2
+
+commit 325849ba084c3797a7cac492ad465e03298374e1
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Sat Feb 25 20:29:22 2023 +0530
+
+    commit 1
+
+commit 4d3447d2d903e768f551356f38b307733bf90b8e
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Thu Feb 23 12:54:37 2023 +0530
+
+    commit
+
+commit 9a060a7dcf4e6256d97d86828abc0efb74e06a92
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Thu Feb 23 12:18:13 2023 +0530
+
+    commit
+
+commit 7d847c5b5c471ccde93f6dff0322963312293a66
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Mon Feb 20 08:55:10 2023 +0530
+
+    hello
+
+commit 536009a28f11762c33372eb0c4b18e5380b87cd3
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Mon Feb 20 08:45:24 2023 +0530
+
+    file2
+
+commit 216d55ed9d319e60ee9fefe5857657007e4349ef
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Mon Feb 20 08:44:38 2023 +0530
+
+    file1

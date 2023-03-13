@@ -9,3 +9,7 @@
     2. ### Cloning the Repo in your local machine
     - Run ``git clone git@github.com:Repo-duction/QRCode-generator.git``
     - ``cd QRCode-generator``
+- Installing dependencies and running code
+    - ``pip install requirements.txt``
+    - ``cd QR``
+    - ``python qrGen.pu``
