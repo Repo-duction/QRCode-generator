@@ -1,0 +1,22 @@
+249e11f HEAD@{0}: checkout: moving from Bugfixes to master
+0508c7e HEAD@{1}: checkout: moving from Final-Demo to Bugfixes
+6606755 HEAD@{2}: cherry-pick: Adding correct reflogs
+987adca HEAD@{3}: checkout: moving from Bugfixes to Final-Demo
+0508c7e HEAD@{4}: commit: Adding correct reflogs
+987adca HEAD@{5}: checkout: moving from Final-Demo to Bugfixes
+987adca HEAD@{6}: rebase (finish): returning to refs/heads/Final-Demo
+987adca HEAD@{7}: rebase (pick): fixing image
+249e11f HEAD@{8}: rebase (start): checkout master
+bb74c3b HEAD@{9}: checkout: moving from master to Final-Demo
+249e11f HEAD@{10}: commit: adding reflog
+aec3dd6 HEAD@{11}: checkout: moving from Final-Demo to master
+bb74c3b HEAD@{12}: commit: fixing image
+aec3dd6 HEAD@{13}: checkout: moving from master to Final-Demo
+aec3dd6 HEAD@{14}: pull: Merge made by the 'ort' strategy.
+05c4222 HEAD@{15}: commit: Bugfixes
+fca920b HEAD@{16}: commit: final
+bb56ad2 HEAD@{17}: commit: Fixing Installations
+9b7c963 HEAD@{18}: pull: Fast-forward
+71ffb97 HEAD@{19}: pull: Fast-forward
+b043067 HEAD@{20}: checkout: moving from master to master
+b043067 HEAD@{21}: clone: from https://github.com/Repo-duction/QRCode-generator.git
