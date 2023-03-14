@@ -16,7 +16,7 @@ def generateQR():
 	img.show()
 	messagebox.showinfo("QR-Code Generator","QR Code is saved successfully!")
 
-
+#create a root
 root=tk.Tk()
 screen_width=root.winfo_screenwidth()
 screen_height=root.winfo_screenheight()
