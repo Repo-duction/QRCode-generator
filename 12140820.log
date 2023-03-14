@@ -1,0 +1,300 @@
+commit d6e6427e7952bc45fa6acffdb41370fcf2116b4b
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Tue Mar 14 16:06:31 2023 +0530
+
+    corrected border
+
+commit 862da6460c79e32b9088c7349a95bf2eac266a39
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Tue Mar 14 16:06:31 2023 +0530
+
+    corrected border
+
+commit 56c6815eef696e5accc1415d1fb5eba5f93a174f
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Tue Mar 14 16:05:05 2023 +0530
+
+    changed border
+
+commit 8c5ea488c3a4894ef9e262b91e390d0248351a36
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Tue Mar 14 13:48:27 2023 +0530
+
+    updating readme
+
+commit 5c166d0bc9851aec8dd5b8552ef7d600d7bd217f
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Tue Mar 14 13:16:23 2023 +0530
+
+    Removing old logs and reflogs
+
+commit 1df9ca25d9e43d2cf040136e53fbf2357abf533d
+Author: Aayush <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Tue Mar 14 13:15:50 2023 +0530
+
+    Update final.log
+
+commit 98173c73367a6d11a53cc2632900d8ecc93cdff8
+Author: Aayush <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Tue Mar 14 13:15:26 2023 +0530
+
+    Update final.reflog
+
+commit a1e7f9c44bddff6e0c99c9b3b1780abbf251945c
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Tue Mar 14 13:12:21 2023 +0530
+
+    Final commit
+
+commit 249e11f340fc8e580fad63f03e6ace23444be1ed
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Tue Mar 14 12:55:07 2023 +0530
+
+    adding reflog
+
+commit aec3dd633d4fe9df6763d39af5b1fc27157c5a6d
+Merge: 05c4222 92ec794
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Tue Mar 14 12:47:06 2023 +0530
+
+    Merge branch 'master' of https://github.com/Repo-duction/QRCode-generator
+
+commit 05c422224848763f8d637fd7ebab147beef2cf09
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Tue Mar 14 12:46:41 2023 +0530
+
+    Bugfixes
+
+commit 92ec7947720237999efae164c41bd8b28668ecfa
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Tue Mar 14 12:33:29 2023 +0530
+
+    final
+
+commit fca920b62ff38f7b178be39ca1cde338e50fd7c3
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Tue Mar 14 12:29:39 2023 +0530
+
+    final
+
+commit bb56ad2ec3f85e018f71917efe2bc4650f38798b
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Tue Mar 14 12:18:27 2023 +0530
+
+    Fixing Installations
+
+commit 9b7c9635a4100ada7fc7c47cc5b2e505f0b75aad
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Tue Mar 14 12:10:38 2023 +0530
+
+    Fixing Image locations
+
+commit 71ffb97e084945ad2b1fb99545a022d0d6aadc65
+Merge: b043067 dabd865
+Author: Aayush <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Tue Mar 14 03:31:02 2023 +0530
+
+    Merge pull request #4 from Repo-duction/bugfixes
+    
+    Bugfixes
+
+commit dabd8654ef0b9446e7418d095f0dad913960d38e
+Merge: 7fc0c34 b043067
+Author: Aayush <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Tue Mar 14 03:28:59 2023 +0530
+
+    Merge branch 'master' into bugfixes
+
+commit 7fc0c348b1c4c2f0dc6fa81949f7ce401bbf0d2a
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Fri Mar 10 19:00:12 2023 +0530
+
+    Testing for linux
+
+commit b043067f48c5a46d04bbeddab5ee8f225d693d46
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Thu Mar 9 07:50:18 2023 +0530
+
+    log and reflog
+
+commit 8e50771a91fb77c7e2ec68e6bf84ecde984a124a
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Thu Mar 9 07:49:23 2023 +0530
+
+    Delete 1.reflog
+
+commit 5b0503277082753cf212406ba914d0e467d2a34f
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Thu Mar 9 07:45:42 2023 +0530
+
+    tkinter
+
+commit 9df6cc585cd6c28f6d269a4e5ddd475e659d97d3
+Author: Aayush <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Thu Mar 9 02:45:51 2023 +0530
+
+    Update README.md
+
+commit d6bf48f706add9fa6abd7528de52a2dab6e19b6f
+Author: Aayush <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Thu Mar 9 02:44:44 2023 +0530
+
+    Update README.md
+
+commit 09907ab3b917caea5de6f3358fa3948a6de2eb90
+Author: Aayush <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Thu Mar 9 02:42:12 2023 +0530
+
+    Update README.md
+
+commit 01bdb21f12ac7cbbf863d08f8732757cb72662c6
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Thu Mar 9 02:37:57 2023 +0530
+
+    Adding gitignore and reqs
+
+commit f02089ef731ce10eb412032b79b45078d0a50a36
+Author: aayushkatariaa <aayushkataria@gmail.com>
+Date:   Thu Mar 9 02:10:54 2023 +0530
+
+    First fix
+
+commit b16acec9f7c4d144862ea9de0a7fe25634edbdae
+Merge: 6a0abfb 347773e
+Author: ishita13saxena <124924469+ishita13saxena@users.noreply.github.com>
+Date:   Thu Mar 9 00:46:30 2023 +0530
+
+    Merge pull request #3 from Repo-duction/ishita-generate-qr
+    
+    Added generateQR functionality to the UI
+
+commit 347773e49b3350388f974dadafb429e40d942ff7
+Author: ishita13saxena <ishitas@iitbhilai.ac.in>
+Date:   Thu Mar 9 00:37:08 2023 +0530
+
+    Added generateQR functionality to the UI
+    
+    Signed-off-by: ishita13saxena <ishitas@iitbhilai.ac.in>
+
+commit 6a0abfb9c357a8557b2f45d62907badf5ddb85b3
+Merge: a69fcd2 ecd94e7
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:06:27 2023 +0530
+
+    Merge pull request #1 from Repo-duction/qrtkinter
+    
+    Qrtkinter
+
+commit a69fcd2f11bd311d7fe9e3e793824f70c6b51322
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:41 2023 +0530
+
+    Create README.md
+
+commit 25ffc15f5cc08a04458d5dd0df6cc5989829569b
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:29 2023 +0530
+
+    Delete file1
+
+commit 8a4a9d50d1cc1e18368af8530e8fb687150244a7
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:14 2023 +0530
+
+    Delete filex
+
+commit 85206b8e72fe7d00066debaf8f98a886a2d39b0d
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:05:02 2023 +0530
+
+    Delete filea
+
+commit 0664b038d6dc9d290886d9879fa33d435910b3a1
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:52 2023 +0530
+
+    Delete file2
+
+commit 35206b31890e33ed9f5f923e2d75dd964e945afa
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:44 2023 +0530
+
+    Delete file1
+
+commit ecd94e774963bd82fbfcb9dad12e30fad1f3f2c4
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:24 2023 +0530
+
+    Delete filex
+
+commit 0d8078f80c4ecfb0fecaece98093b12650bd746b
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:12 2023 +0530
+
+    Delete filea
+
+commit c1c1c1ebb0b1f6c4fdc2ee90bd15e9206afba671
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:04:00 2023 +0530
+
+    Delete file2
+
+commit 40681a5b11645b90ce3b2174fc3331ac937ab9f7
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:03:52 2023 +0530
+
+    Delete file1
+
+commit fde7dea95de5776d30af53df04195922d0125528
+Author: shreyanukala <119395624+shreyanukala@users.noreply.github.com>
+Date:   Wed Mar 8 09:03:43 2023 +0530
+
+    Delete file1
+
+commit 8897aa0507fdebe447c479a62d511b912ba67609
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Wed Mar 8 08:51:41 2023 +0530
+
+    tkinter
+
+commit f79e5f5ebb8d35c9b17012cd7f7bcf91f1c59798
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Sat Feb 25 20:29:48 2023 +0530
+
+    commit 2
+
+commit 325849ba084c3797a7cac492ad465e03298374e1
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Sat Feb 25 20:29:22 2023 +0530
+
+    commit 1
+
+commit 4d3447d2d903e768f551356f38b307733bf90b8e
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Thu Feb 23 12:54:37 2023 +0530
+
+    commit
+
+commit 9a060a7dcf4e6256d97d86828abc0efb74e06a92
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Thu Feb 23 12:18:13 2023 +0530
+
+    commit
+
+commit 7d847c5b5c471ccde93f6dff0322963312293a66
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Mon Feb 20 08:55:10 2023 +0530
+
+    hello
+
+commit 536009a28f11762c33372eb0c4b18e5380b87cd3
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Mon Feb 20 08:45:24 2023 +0530
+
+    file2
+
+commit 216d55ed9d319e60ee9fefe5857657007e4349ef
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Mon Feb 20 08:44:38 2023 +0530
+
+    file1

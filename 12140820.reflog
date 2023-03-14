@@ -1,0 +1,12 @@
+d6e6427 HEAD@{0}: commit (cherry-pick): corrected border
+862da64 HEAD@{1}: checkout: moving from master to correction
+862da64 HEAD@{2}: checkout: moving from correction to master
+862da64 HEAD@{3}: checkout: moving from master to correction
+862da64 HEAD@{4}: reset: moving to HEAD
+862da64 HEAD@{5}: rebase (finish): returning to refs/heads/master
+862da64 HEAD@{6}: rebase (start): checkout correction
+8c5ea48 HEAD@{7}: checkout: moving from correction to master
+862da64 HEAD@{8}: commit: corrected border
+56c6815 HEAD@{9}: commit: changed border
+8c5ea48 HEAD@{10}: checkout: moving from master to correction
+8c5ea48 HEAD@{11}: clone: from https://github.com/Repo-duction/QRCode-generator.git
