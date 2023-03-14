@@ -1,0 +1,16 @@
+e590453 HEAD@{0}: commit (cherry-pick): correct
+e347ec2 HEAD@{1}: checkout: moving from master to tkinter
+a2ac7be HEAD@{2}: reset: moving to HEAD
+a2ac7be HEAD@{3}: rebase (finish): returning to refs/heads/master
+a2ac7be HEAD@{4}: rebase (start): checkout tkinter1
+8c5ea48 HEAD@{5}: checkout: moving from tkinter1 to master
+a2ac7be HEAD@{6}: commit: comment
+e347ec2 HEAD@{7}: checkout: moving from tkinter to tkinter1
+e347ec2 HEAD@{8}: commit: correct
+c1b6ac7 HEAD@{9}: commit: commit
+8c5ea48 HEAD@{10}: checkout: moving from master to tkinter
+8c5ea48 HEAD@{11}: pull: Fast-forward
+b043067 HEAD@{12}: commit: log and reflog
+8e50771 HEAD@{13}: pull: Fast-forward
+5b05032 HEAD@{14}: commit: tkinter
+b16acec HEAD@{15}: clone: from https://github.com/Repo-duction/QRCode-generator.git
