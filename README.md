@@ -13,4 +13,4 @@
 - Installing dependencies and running code
     - ``pip install -r requirements.txt``
     - ``cd QR``
-    - ``python qrGen.pu``
+    - ``python qrGen.py``
