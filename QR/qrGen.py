@@ -38,7 +38,7 @@ label1=Label(root,text='Enter the text: ',bg='SteelBlue3',fg='azure',font=('Aria
 label1.place(x=400,y=300)
 text1=Entry(root,font=('Arial',40),bg='SteelBlue3',fg='azure')
 text1.place(x=800,y=300)
-label2=Label(root,text='Enter the location to save : ',bg='SteelBlue3',fg='azure',font=('Arial',40))
+label2=Label(root,text='Enter the location to save: ',bg='SteelBlue3',fg='azure',font=('Arial',40))
 label2.place(x=400,y=400)
 text2=Entry(root,font=('Arial',40),bg='SteelBlue3',fg='azure')
 text2.place(x=1100,y=400)
@@ -52,7 +52,6 @@ text4=Entry(root,font=('Arial',40),bg='SteelBlue3',fg='azure')
 text4.place(x=1100,y=600)
 button=Button(root,text='Generate code',bg='SteelBlue3',fg='azure',activeforeground='red',font=('Arial',40),command=generateQR)
 button.place(x=700,y=800)
-root.wm_attributes('-transparentcolor', root['bg'])
 root.mainloop()
 
 
