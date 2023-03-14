@@ -1,0 +1,11 @@
+aec3dd6 HEAD@{0}: checkout: moving from Final-Demo to master
+bb74c3b HEAD@{1}: commit: fixing image
+aec3dd6 HEAD@{2}: checkout: moving from master to Final-Demo
+aec3dd6 HEAD@{3}: pull: Merge made by the 'ort' strategy.
+05c4222 HEAD@{4}: commit: Bugfixes
+fca920b HEAD@{5}: commit: final
+bb56ad2 HEAD@{6}: commit: Fixing Installations
+9b7c963 HEAD@{7}: pull: Fast-forward
+71ffb97 HEAD@{8}: pull: Fast-forward
+b043067 HEAD@{9}: checkout: moving from master to master
+b043067 HEAD@{10}: clone: from https://github.com/Repo-duction/QRCode-generator.git
